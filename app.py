@@ -512,6 +512,6 @@ elif st.session_state.page == 'grades':
 st.markdown("""
 <div class="footer">
     <p>🔒 Secure Student Portal • Each student can only see their own grades</p>
-    <p style="font-size: 0.8rem;">© 2025 Student Grade Management System | Version 4.0</p>
+    <p style="font-size: 0.8rem;">© 2026 Gabisa's Student Grade Management System | Version 4.0</p>
 </div>
 """, unsafe_allow_html=True)
